@@ -23,7 +23,7 @@ Expo Go provides a cost-effective solution by allowing you to test and run your 
 
 ### Prerequisites
 
-- Node.js LTS: Installed (version: [insert version if known])
+- Node.js LTS: Installed (version: v24.9.0)
 - VS Code: Installed
 - Operating System: Windows 11
 
