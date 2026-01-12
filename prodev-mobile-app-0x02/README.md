@@ -2,14 +2,6 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Scaffolding Process
-
-The project was scaffolded using the following steps:
-
-1. Navigated to the parent project directory: `cd prodev-mobile-setup`
-2. Initialized a new Expo project using the latest Expo Router template: `npx create-expo-app@latest .`
-3. Modified the home screen in `app/(tabs)/index.tsx` by changing the default text "Welcome!" to "** First App Created**".
-
 ## Get started
 
 1. Install dependencies
@@ -42,14 +34,6 @@ npm run reset-project
 ```
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Observations from reset-project command
-
-Running `npm run reset-project` prompts the user to choose whether to move existing files to `/app-example` instead of deleting them. When 'Y' is selected:
-- It creates the `app-example` directory.
-- It moves the `app`, `components`, `hooks`, `constants`, and `scripts` directories into `app-example`.
-- It creates a new blank `app` directory with basic `index.tsx` and `_layout.tsx` files.
-- The project is then ready for a fresh start with a clean directory structure.
 
 ## Learn more
 
